@@ -1,0 +1,6 @@
+Dear ====EMP_NAME==== ,
+You Have been assigned a task of ID ====TASK_ID==== at " ====ASSIGNED_STAMP==== ".
+Details for the task are given below
+1. Score: ====SCORE==== ,
+2. Header: ====HEADER==== ,
+3. Deadline: ====DEADLINE==== .

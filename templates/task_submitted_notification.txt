@@ -1,0 +1,7 @@
+Dear ====EMP_NAME====,
+Your Task of ID ====TASK_ID==== at " ====ASSIGNED_STAMP==== " have been successfully submitted.
+Your Task is at "Under Review" by Project Manager.
+Details for the task are given below
+1. Score: ====SCORE==== ,
+2. Header: ====HEADER==== ,
+3. Deadline: ====DEADLINE==== .

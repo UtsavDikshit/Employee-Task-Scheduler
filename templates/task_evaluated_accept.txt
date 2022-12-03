@@ -1,0 +1,5 @@
+Dear ====EMP_NAME====,
+Your Task of ID ====TASK_ID==== at " ====ASSIGNED_STAMP==== " have been successfully evaluted.
+Your work is "Accepted" with the following remarks.
+Details given below
+1. Remarks: ====REMARKS==== .

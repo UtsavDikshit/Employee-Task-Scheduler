@@ -1,0 +1,8 @@
+Dear ====EMP_NAME====,
+Your Task of ID ====TASK_ID==== at " ====ASSIGNED_STAMP==== " have been successfully evaluted.
+Your work is "Rejected" with the following remarks. Kindly redo the same within the deadlines.
+Details are given below
+1. Score: ====SCORE==== ,
+2. Header: ====HEADER==== ,
+3. Deadline: ====DEADLINE==== ,
+4. Remarks: ====REMARKS==== .
